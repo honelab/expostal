@@ -7,6 +7,8 @@
 Elixir binding for [Libpostal] - a library for parsing/normalizing street addresses around the world. 
 Powered by statistical NLP and open geo data.
 
+This fork includes a fix for the `defp init` error that is raised in the current official version of `expostal`.
+
 Tutorial on how to write Elixir/Erlang NIF: http://cs.mcgill.ca/~mxia3/2017/06/18/tutorial-extending-elixir-with-c-using-NIF/
 
 ## Installation
